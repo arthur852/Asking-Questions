@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Asking_Questions.Program</StartupObject>
+    <ApplicationIcon>sign-question-icon_34359.ico</ApplicationIcon>
+    <AssemblyName>Asking Questions</AssemblyName>
+  </PropertyGroup>
+
+</Project>
