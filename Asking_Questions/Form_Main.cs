@@ -22,7 +22,7 @@ namespace Asking_Questions
 
         public void CountLoadQuestion()
         {
-            Count_Load_Question.Text = $"Questions: {questions.Count}";
+            Count_Load_Question.Text = $"Questions Load: {questions.Count}";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -65,7 +65,7 @@ namespace Asking_Questions
                 Random rnd = new Random();
                 int indexEnd = questions.Count - 1;
 
-                for (int i = 0; i <= indexEnd; i++)
+                for (int i = 0; i <= indexEnd; indexEnd--)
                 {
                     Count_Question++;
                     int index = rnd.Next(0, indexEnd);
