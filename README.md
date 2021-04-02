@@ -1,4 +1,4 @@
-[![C# .NET Core 3.1](https://img.shields.io/badge/C%23-.NET%20Core%203.1-blueviolet)](https://dotnet.microsoft.com/download/dotnet-framework)
+[![C# .NET Core 3.1](https://img.shields.io/badge/C%23-.NET%20Core%203.1-blueviolet)](https://dotnet.microsoft.com/download/dotnet)
 ##                        Program to check questions 📝❔
 ![Programm Image](https://github.com/arthur852/Asking-Questions/blob/master/img/img1.png?raw=true)
 ![Programm Image](https://github.com/arthur852/Asking-Questions/blob/master/img/img2.png?raw=true)
@@ -12,4 +12,4 @@ You can test yourself and prepare for the Exam or so.
    - The questions are chosen completely randomly.
    - Create questions then upload them to a text file.
 ## Dependencies:
-* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-framework)
+* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet)
